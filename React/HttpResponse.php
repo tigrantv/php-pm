@@ -23,7 +23,7 @@ class HttpResponse extends \React\Http\Response {
     /**
      * @return int
      */
-    public function getBytesSent()
+    public function getBytesSent() : int
     {
         return $this->bytesSent;
     }

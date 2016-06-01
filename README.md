@@ -9,7 +9,7 @@ test 1
 
 PHP-PM is a process manager, supercharger and load balancer for PHP applications.
 
-[![Build Status](https://travis-ci.org/php-pm/php-pm.svg?branch=master)](https://travis-ci.org/php-pm/php-pm)
+[![Build Status](https://travis-ci.org/tigrantv/php-pm.svg?branch=master)](https://travis-ci.org/tigrantv/php-pm)
 [![Gitter](https://badges.gitter.im/php-pm/php-pm.svg)](https://gitter.im/php-pm/php-pm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 It's based on ReactPHP and works best with applications that use request-response frameworks like Symfony's HTTPKernel.
